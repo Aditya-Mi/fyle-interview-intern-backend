@@ -74,5 +74,6 @@ pytest -vvv -s tests/
 - Run the Container in Detached Mode:
 
   ```
+  .
   docker-compose up -d
   ```
